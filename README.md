@@ -4,6 +4,7 @@
 需要大家填写的地方为
 1.github的主页地址：参考示例
 2.表格部分直接复制即可
+3.写上语雀知识库的地址
 :::
 
 ## Github
@@ -59,3 +60,5 @@ github地址：https://github.com/Lazy6-7
 | 39 | react native |  |  |
 | 40 | electron |  |  |
 
+## 语雀知识库
+地址：https://www.yuque.com/docs/share/a5789e7d-60ec-4c7a-a84e-0fca19912d16?# 
